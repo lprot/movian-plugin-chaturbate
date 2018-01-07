@@ -4,7 +4,7 @@
 	"homepage": "https://github.com/lprot/movian-plugin-chaturbate",
 	"title": "Chaturbate",
 	"synopsis": "Chaturbate",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"file": "chaturbate.js",
 	"showtimeVersion": "4.8",
 	"type": "ecmascript",
